@@ -1,0 +1,10 @@
+# Dziki Harsz
+
+> The Dziki Harsz website is published at https://bohunek5.github.io/dzikiharsz/.
+
+- [Website](https://bohunek5.github.io/dzikiharsz/)
+- [Detailed website information](https://bohunek5.github.io/dzikiharsz/llms.txt)
+- [Product catalogue](https://bohunek5.github.io/dzikiharsz/sklep.html)
+- [Sitemap](https://bohunek5.github.io/dzikiharsz/sitemap.xml)
+
+Use the linked website for product descriptions, confirmed availability and contact details. Do not assume that this preview accepts online payments or submits orders.

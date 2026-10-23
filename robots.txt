@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bohunek5.github.io/dzikiharsz/sitemap.xml
